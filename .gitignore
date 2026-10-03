@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+dataset_split/
+
+.ipynb_checkpoints/
+
+models/feature_lr1e-3_best.pth
+models/partial_lr1e-4_best.pth
+models/scratch_lr1e-3_best.pth

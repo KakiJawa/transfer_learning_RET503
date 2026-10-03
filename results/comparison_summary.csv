@@ -1,0 +1,5 @@
+Experiment,Mode,Learning Rate,Best Val Accuracy (%),Test Accuracy (%),Training Time (s)
+Feature LR 1e-3,Feature,1e-3,68.33,76.67,58.8
+Partial LR 1e-4,Partial,1e-4,85.0,81.67,74.37
+Partial LR 1e-3,Partial,1e-3,78.33,86.67,75.24
+Scratch LR 1e-3,Scratch,1e-3,63.33,48.33,116.47

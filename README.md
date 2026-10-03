@@ -4,6 +4,14 @@ Project ini merupakan implementasi transfer learning untuk melakukan klasifikasi
 
 Project dibuat sebagai bagian dari tugas mata kuliah Computer Vision & Deep Learning.
 
+## Google Colab
+
+Notebook lengkap dapat dibuka langsung di Google Colab melalui tombol berikut:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KakiJawa/transfer_learning_RET503/blob/main/notebooks/transfer_learning_waste_classification.ipynb)
+
+Notebook sudah berisi hasil eksekusi eksperimen, termasuk training, grafik accuracy dan loss, evaluasi test set, classification report, confusion matrix, perbandingan eksperimen, dan inference latency.
+
 ## 1. Tujuan
 
 Tujuan project ini adalah membangun dan mengevaluasi model klasifikasi citra sampah dengan pendekatan transfer learning serta membandingkan performa beberapa mode pelatihan.
